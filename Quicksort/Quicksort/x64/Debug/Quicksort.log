@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\dalli\source\repos\cs 235\quicksort\quicksort\qs.h(129): warning C4267: 'initializing': conversion from 'size_t' to 'Teml', possible loss of data
+          with
+          [
+              Teml=int
+          ]
+  c:\users\dalli\source\repos\cs 235\quicksort\quicksort\qs.h(126): note: while compiling class template member function 'int QS<int>::partition(size_t,size_t,size_t)'
+  c:\users\dalli\source\repos\cs 235\quicksort\quicksort\main.cpp(96): note: see reference to function template instantiation 'int QS<int>::partition(size_t,size_t,size_t)' being compiled
+  c:\users\dalli\source\repos\cs 235\quicksort\quicksort\main.cpp(42): note: see reference to class template instantiation 'QS<int>' being compiled
+c:\users\dalli\source\repos\cs 235\quicksort\quicksort\qs.h(130): warning C4267: 'initializing': conversion from 'size_t' to 'Teml', possible loss of data
+          with
+          [
+              Teml=int
+          ]
+c:\users\dalli\source\repos\cs 235\quicksort\quicksort\qs.h(103): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\dalli\source\repos\cs 235\quicksort\quicksort\qs.h(99): note: while compiling class template member function 'int QS<int>::medianOfThree(size_t,size_t)'
+  c:\users\dalli\source\repos\cs 235\quicksort\quicksort\main.cpp(88): note: see reference to function template instantiation 'int QS<int>::medianOfThree(size_t,size_t)' being compiled
+c:\users\dalli\source\repos\cs 235\quicksort\quicksort\qs.h(122): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dalli\source\repos\cs 235\quicksort\quicksort\qs.h(49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\dalli\source\repos\cs 235\quicksort\quicksort\qs.h(46): note: while compiling class template member function 'bool QS<int>::createArray(size_t)'
+  c:\users\dalli\source\repos\cs 235\quicksort\quicksort\main.cpp(50): note: see reference to function template instantiation 'bool QS<int>::createArray(size_t)' being compiled
+  Quicksort.vcxproj -> C:\Users\dalli\source\repos\CS 235\Quicksort\x64\Debug\Quicksort.exe
